@@ -108,7 +108,7 @@ body {
 	top: 0;
 }
 
-.chart .percent {
+.chart .percent  {
 	color: #000;
 	line-height: 152px;
 	display: inline-block;
